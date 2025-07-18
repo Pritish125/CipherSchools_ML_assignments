@@ -1,0 +1,51 @@
+EmployeeID,Name,Gender,Department,Salary,JoinDate,PerformanceRating
+E001,Dr. Lisa Rogers,Male,Marketing,108988.18,13-11-2021,4
+E002,Nichole Peterson,Female,Finance,31002.41,02-07-2015,5
+E003,Paul Blair,Female,Sales,73663.33,04-05-2023,1
+E004,Michelle Thomas,Other,Marketing,84044.55,18-11-2019,1
+E005,Jessica Berg,Female,Marketing,92527.68,30-11-2019,3
+E006,Hannah Reed,Male,IT,95398.62,07-08-2017,5
+E007,Lisa Allen,Male,IT,66718.87,28-09-2015,5
+E008,Crystal Harper,Female,HR,109894.5,19-02-2018,4
+E009,Sharon Anthony,Male,Finance,31208.47,18-02-2023,3
+E010,Jake Martinez,Male,Marketing,56227.01,15-07-2017,5
+E011,Jimmy Rodriguez,Male,Finance,69581.92,29-04-2018,3
+E012,John Ramirez,Female,IT,59702.21,16-05-2022,4
+E013,Louis Hicks,Male,Sales,118091.53,04-12-2022,2
+E014,Sheila Winters,Female,Sales,99976.18,07-01-2023,2
+E015,Richard Santos,Female,HR,94509.68,10-04-2023,2
+E016,Jeremy Holder,Female,HR,111752.13,20-11-2019,4
+E017,Kayla Larson,Other,Marketing,67068.88,03-09-2021,5
+E018,Roger Dennis,Female,IT,115486.28,17-04-2019,2
+E019,Phillip King,Male,Marketing,111806.77,14-09-2021,5
+E020,Amanda George,Male,Marketing,115432.99,05-11-2016,3
+E021,Kevin Morgan,Female,IT,76185.43,10-07-2017,3
+E022,Kathleen Petersen,Female,Sales,31481.45,19-10-2019,5
+E023,Billy Davis,Female,Marketing,84016.24,19-02-2022,3
+E024,Shannon Butler,Female,Sales,57823.91,31-10-2022,5
+E025,Ashley Heath,Male,Finance,38102.06,12-08-2015,1
+E026,Robert Holmes,Female,IT,79917.41,24-08-2018,5
+E027,Matthew Davis,Male,Marketing,74667.93,16-01-2017,1
+E028,Melissa Chang,Male,Finance,118604.45,11-02-2017,1
+E029,Chelsea Shepherd,Female,Finance,46971.69,09-03-2016,1
+E030,John Carroll,Other,IT,49346.99,20-04-2022,2
+E031,Kerri Pena,Female,Sales,52484.69,05-06-2020,3
+E032,David Lynch,Female,Sales,72882.78,03-11-2021,2
+E033,Laura Chapman,Male,Finance,111711.42,22-08-2022,3
+E034,Kathy Coleman,Other,Sales,37302.47,24-10-2021,5
+E035,Benjamin Smith,Female,Finance,74663.33,01-06-2020,4
+E036,Jackson Patel,Other,Finance,72049.84,05-02-2022,1
+E037,Cody Jacobs,Other,HR,34198.91,18-12-2022,3
+E038,David Donovan,Male,Finance,69371.47,31-03-2021,2
+E039,Tiffany Salas,Male,Sales,81455.58,17-07-2018,2
+E040,Kevin Arnold,Other,Finance,115623.96,28-07-2021,3
+E041,Alison Smith,Male,Sales,116661.07,13-04-2019,2
+E042,Teresa Perez,Other,Sales,53836.58,17-10-2020,1
+E043,Stephen Rodriguez,Other,Marketing,31704.57,01-08-2018,4
+E044,Dr. Eric Anderson,Female,HR,99614.18,31-12-2021,4
+E045,Richard Farmer,Female,HR,78041.27,05-09-2017,3
+E046,Jessica Simpson,Other,Marketing,92032.36,06-11-2022,3
+E047,Ashley Roberts,Female,Marketing,39129.79,06-01-2020,1
+E048,Anthony Johns DVM,Female,Finance,34766.63,22-05-2022,2
+E049,Laura Ellis,Male,HR,30169.85,01-07-2022,2
+E050,Danielle George,Female,Sales,38314.97,29-09-2018,5
